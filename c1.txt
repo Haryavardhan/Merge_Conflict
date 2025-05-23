@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 i created this file with same name and trying to conflict
+=======
+AIMLS ARE GOING 
+TO BE BRIGHT FOR
+FUTURE GENERATIONS
+>>>>>>> fb
